@@ -7,7 +7,7 @@
 
 #### Students:
 
-1. Go to [Dani's Repl.it](https://repl.it/@droxey/litebrite-client&sa=D&ust=1600919420135000&usg=AFQjCNESNW5P0s-Zs6yPWox1Fjn3sUJ2XA).
+1. Go to [Dani's Repl.it](https://repl.it/@droxey/litebrite-client#main.py).
 2. Click **Fork**
 3. On the sidebar, right click on **.env.sample** and **rename** it to **.env**
 4. A step by step walkthrough is in the repl.it that you forked. Follow along with each comment marked **STEP**

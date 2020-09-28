@@ -19,9 +19,7 @@
 
 #### Instructor:
 
-<!-- https://litebrite.live -->
-
-1. Visit the live site and share screen.
+1. Visit the [live site](https://litebrite.live) and share screen.
 2. Shout out each color / student as they appear!
 3. Encourage students to create different patterns.
 

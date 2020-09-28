@@ -9,10 +9,10 @@
 
 1. Go to [Dani's Repl.it](https://repl.it/@droxey/litebrite-client#main.py).
 2. Click **Fork**
-3. On the sidebar, right click on **.env.sample** and **rename** it to **.env**
-4. A step by step walkthrough is in the repl.it that you forked. Follow along with each comment marked **STEP**
-5. Prepare questions on how this works to ask during Q&A
-6. You can check out the code [on Github](https://github.com/droxey/litebrite)
+<!--3. On the sidebar, right click on **.env.sample** and **rename** it to **.env**-->
+3. A step by step walkthrough is in the repl.it that you forked. Follow along with each comment marked **STEP**
+4. Prepare questions on how this works to ask during Q&A
+5. You can check out the code [on Github](https://github.com/droxey/litebrite)
 
 **Challenge: Use code to make a pattern!** (try conditionals or loops) 😯
 
